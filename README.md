@@ -3,3 +3,4 @@
 * evenOdd : for loop basic
 * MAP : golang map struct
 * structs : golang struct type
+* interfaces : golang interface
