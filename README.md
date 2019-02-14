@@ -7,3 +7,4 @@
 * HTTP: golang customer writer interface
 * shape: interface assignment
 * file: interface assignment hard
+* channels: go routine
