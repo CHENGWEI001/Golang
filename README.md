@@ -1,5 +1,5 @@
 # golang
-* GoCards : golang basic
+* GoCards : golang basic , including test
 * evenOdd : for loop basic
 * MAP : golang map struct
 * structs : golang struct type
