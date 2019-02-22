@@ -1,0 +1,2 @@
+- This is from golang tour exercise: https://tour.golang.org/concurrency/10
+- code is the same as channel implementaion of crawler in https://pdos.csail.mit.edu/6.824/notes/crawler.go
